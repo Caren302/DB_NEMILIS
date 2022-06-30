@@ -4,5 +4,8 @@ CREATE DATABASE Medicamentos (
     EmpaqueMed varchar (20),
     CantidadMed int,
     PresentaciMed varchar (15),
-    FechaVencimientoMed Date
-)
+    FechaVencimientoMed Date,
+    ViaAdministracionMed varchar(15),
+    Almacenemiento varchar(25),
+    EspecificacionMed varchar(100)
+);
