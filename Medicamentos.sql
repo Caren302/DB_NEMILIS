@@ -1,7 +1,8 @@
-CREATE DATABASE Medicamentos (
-    Id_Medicamento integer PRiMARY KEY AUTOINCREMENT,
-    NombreMed varchar (50),
-    Categoria varchar (50),
-    CantidadMed int,
-    Sector varchar(15)
+CREATE TABLE Medicamentos (
+    id_medicamento integer PRIMARY KEY AUTOINCREMENT,
+    nombre varchar (50),
+    presentacion varchar (50),
+    categoria varchar (50),
+    cantidad int,
+    sector varchar(15)
 );
