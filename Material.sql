@@ -1,4 +1,4 @@
-CREATE TABLE Material_curacion (
+CREATE TABLE material_curacion (
     id_material integer PRIMARY KEY AUTOINCREMENT,
     nombre varchar (50),
     presentacion varchar (50),

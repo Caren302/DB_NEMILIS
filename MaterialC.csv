@@ -1,0 +1,42 @@
+Id_Medicamento,Nombre ,Presentacion ,Categoria ,Fecha/Caducidad,Sector,Existencias
+1,Aceites,120 ml ,Lubricante ,30-01-2024,Antibiotico ,10
+2,Agujas ,20-25mm/30 G,Dental/Desechable ,01-07-2023,Antibiotico ,1000
+3,Agujas ,27-42mm/27 G ,Dental/Desechable ,07-05-2023,Antibiotico ,1000
+4,Alambres ,30 cm ,Ortodoncia ,17-12-24,Antibiotico ,200
+5,Bolsas papel. ,7.5 x 23.0 x 4.0 cm,Esterilizar ,01-09-2024,Antibiotico ,20
+6,Bolsas papel. ,12.0 x 26.0 x 4.0 cm,Esterilizar ,18-08-2023,Antibiotico ,20
+7,Bolsas papel. ,14.0 x 33.0 x4.5 cm ,Esterilizar ,02-08-2022,Antibiotico ,20
+8,Bolsas papel. ,6.0 x 18.0 x 3.0 cm ,Esterilizar ,02-09-2023,Antibiotico ,0
+9,Bolsas papel. ,9.0 x 12.5 x 5 cm ,Esterilizar ,10-07-2024,Antibiotico ,20
+10,Bolsas papel. ,10.0 x 14.0 x 7 cm ,Esterilizar ,26-01-2022,Antibiotico ,20
+11,Cintas ,18 mmm ,Esterilizar ,04-09-2023,Antibiotico ,14
+12,Antiseptico(Eugenol),30 ml ,Antiseptico,12-10-2023,Antibiotico ,10
+13,Guantes ,Par ,Desechable ,13-02-2023,Antibiotico ,400
+14,Gasas ,10x10 cm ,Paquete ,28-07-2024,Antibiotico ,1000
+15,Gasas ,20x20cm,Paquete ,26-08-2023,Antibiotico ,1000
+16,Gasas ,20x40cm ,Paquete ,07-07-2025,Antibiotico ,1000
+17,Gasas ,40x60cm ,Paquete ,16-08-2024,Antibiotico ,1000
+18,Algodon ,50 g,Paquete ,06-11-2023,Antibiotico ,30
+19,Algodon ,100 g,Paquete ,20-11-2023,Antibiotico ,30
+20,Algodon ,200 g,Paquete ,01-07-2023,Antibiotico ,30
+21,Algodon ,500 g ,Paquete ,07-05-2023,Antibiotico ,30
+22,Jeringas ,1ml ,Suelta,01-07-2023,Antibiotico ,0
+23,Jeringas ,3ml,Suelta,07-05-2023,Antibiotico ,1000
+24,Jeringas ,5ml,Suelta,17-12-24,Antibiotico ,1000
+25,Jeringas ,10ml,Suelta,01-09-2024,Antibiotico ,1000
+26,Jeringas ,20 ml,Suelta,18-08-2023,Antibiotico ,1000
+27,Jeringas ,60ml ,Suelta,02-07-2023,Antibiotico ,1000
+28,Abatelenguas ,Suetas ,Sueltas,02-09-2023,Antibiotico ,10000
+29,Supositorios,Sueltos/Caja,Sueltos/Caja,10-07-2024,Antibiotico ,200
+30,Contenedores ,Sueltos,Sueltos/Caja,26-08-2022,Antibiotico ,10
+31,Gorras ,Sueltas,Sueltos/Caja,04-09-2023,Antibiotico ,30
+32,Alcohol Etilico Azul ,125ml,Solucion ,12-10-2023,Antibiotico ,15
+33,Alcohol Etilico Azul ,250ml ,Solucion ,13-02-2023,Antibiotico ,12
+34,Alcohol Etilico Azul ,500ml,Solucion ,28-07-2024,Antibiotico ,17
+35,Alcohol Etilico Azul ,750ml ,Solucion ,26-08-2023,Antibiotico ,21
+36,Alcohol Etilico Azul ,1L,Solucion ,07-07-2025,Antibiotico ,5
+37,Alcohol Etilico Rojo ,125ml,Solucion ,16-08-2024,Antibiotico ,25
+38,Alcohol Etilico Rojo ,250ml,Solucion ,06-11-2023,Antibiotico ,19
+39,Alcohol Etilico Rojo ,500ml,Solucion ,20-11-2023,Antibiotico ,10
+40,Alcohol Etilico Rojo ,750ml,Solucion ,01-07-2023,Antibiotico ,20
+41,Alcohol Etilico Rojo ,1L,Solucion ,07-05-2023,Antibiotico ,11

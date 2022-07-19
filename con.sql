@@ -1,2 +1,2 @@
 SELECT * FROM Medicamentos;
-SELECT * FROM Entrada_Medicamentos;
+SELECT * FROM Material_curacion;
