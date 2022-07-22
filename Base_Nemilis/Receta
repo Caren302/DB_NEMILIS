@@ -1,0 +1,9 @@
+CREATE TABLE recetas (
+  cedula_profesional primary key,
+  nombre_completo varchar(50),
+  fecha date, 
+  folio int, 
+  direccion varchar (50),
+  
+);
+
