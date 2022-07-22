@@ -1,0 +1,15 @@
+CREATE TABLE medicos(
+  cedula_profesional primary key int
+  nombre_completo varchar(50),
+  direccion varchar(50),
+  numero_telefonico int,
+  correo varchar(50)
+);
+
+CREATE TABLE pacientes(
+  nss primary key,
+  nombre_completo varchar(50),
+  direccion varchar(50),
+  mumero_telefonico varchar(50),
+  correo varchar(50)
+);
